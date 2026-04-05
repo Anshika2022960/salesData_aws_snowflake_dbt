@@ -1,4 +1,3 @@
-<img width="1043" height="500" alt="image" src="https://github.com/user-attachments/assets/ed25d433-ce1b-4a4c-a919-61fe6bf93026" /># salesData_aws_snowflake_dbt
 ## # 🚀 Sales Analytics Pipeline using AWS, Snowflake, dbt & Power BI
 ## 📌 Project Overview
 This project demonstrates an end-to-end modern data pipeline built using **AWS S3, Snowflake, dbt, and Power BI**.

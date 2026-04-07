@@ -39,13 +39,13 @@ models/
 │ ├── stg_sales_target.sql
 │ ├── stg_order_details.sql
 │
-├── intermediate/
-│ ├── int_orders_details.sql
-│
-├── marts/
-│ ├── sales_report.sql
-│
-└── sources.yml
+-├── intermediate/
+ │ ├── int_orders_details.sql
+ │
+ ├── marts/
+ │ ├── sales_report.sql
+ │
+ └── sources.yml
 
 ## 📊 Dashboard Overview
 ## 📈 Key Insights

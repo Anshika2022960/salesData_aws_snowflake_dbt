@@ -1,9 +1,9 @@
 ## # 🚀 Sales Analytics Pipeline using AWS, Snowflake, dbt & Power BI
-## 📌 Project Overview
+## Project Overview
 This project demonstrates an end-to-end modern data pipeline built using **AWS S3, Snowflake, dbt, and Power BI**.
 
 The pipeline ingests raw sales data, transforms it using dbt into structured layers, and visualizes business insights through an interactive dashboard.
-## 🎯 Business Problem
+##  Business Problem
 Raw sales data is often:
 - Unstructured and inconsistent  
 - Difficult to analyze directly  
@@ -57,7 +57,7 @@ models/
 - 📍 Top-performing states identified  
 - 🎯 Gap observed between actual sales and targets  
 
-## 🚀 Key Features
+## Key Features
 
 - End-to-end modern data pipeline  
 - Modular dbt transformations  
@@ -67,7 +67,7 @@ models/
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Building ELT pipelines using Snowflake & dbt  
 - Data modeling using staging, intermediate, and marts  
